@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nomad_app/static/css/main.904763ed.chunk.css",
+    "main.js": "/nomad_app/static/js/main.7faf0b81.chunk.js",
+    "main.js.map": "/nomad_app/static/js/main.7faf0b81.chunk.js.map",
+    "runtime-main.js": "/nomad_app/static/js/runtime-main.4ece4b6b.js",
+    "runtime-main.js.map": "/nomad_app/static/js/runtime-main.4ece4b6b.js.map",
+    "static/js/2.d195fa22.chunk.js": "/nomad_app/static/js/2.d195fa22.chunk.js",
+    "static/js/2.d195fa22.chunk.js.map": "/nomad_app/static/js/2.d195fa22.chunk.js.map",
+    "index.html": "/nomad_app/index.html",
+    "static/css/main.904763ed.chunk.css.map": "/nomad_app/static/css/main.904763ed.chunk.css.map",
+    "static/js/2.d195fa22.chunk.js.LICENSE.txt": "/nomad_app/static/js/2.d195fa22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ece4b6b.js",
+    "static/js/2.d195fa22.chunk.js",
+    "static/css/main.904763ed.chunk.css",
+    "static/js/main.7faf0b81.chunk.js"
+  ]
+}
